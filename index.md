@@ -8,7 +8,7 @@ Why long list? Just tiring making links this or that, one page and all.
 2. [Blogflow](#blogflow)
 3. [Scrolling addiction](#scrolling-addiction)
 
-### As simple as possible: phone
+## As simple as possible: phone
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
 
 - Meituan(a food delivery app)
@@ -34,7 +34,7 @@ Why? Here comes the reason:
 
 ---
 
-### Blogflow
+## Blogflow
 Four years ago, I started to write my blog.
 
 I clearly remember, I bought a server from AliCloud, and clumsily started to figure how to create a blog and publish it.
@@ -56,7 +56,7 @@ Sadly, none of them fits my need. I think a blog should be like this:
 3. Edit-friendly. The editor must be one of the tools I\'m familiar with.
 4. Easy-operate. Could work with git, and easy to upload my cloud virtual host.
 
-### Scrolling addiction
+## Scrolling addiction
 I have just formed a new habit: put my phone into a box, and start my needy finishing jobs.
 
 Why? Because I find myself distracted when my phone along my side, often I choose to work half an hour or less and scroll my phone for near one hour or more. These make me confuse:
