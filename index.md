@@ -1,5 +1,7 @@
 # Hello, welcome to loost(loong list).
 
+https://images.pling.com/img/00/00/74/46/79/2224602/01.jpg
+
 ## Index
 
 1. [Simplify my phone](#as-simple-as-possible:-phone)
