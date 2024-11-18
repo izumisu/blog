@@ -1,4 +1,4 @@
-# Welcome to loost, a place to list my long blog.
+# Welcome to loost, a place to my long-list-blog.
 
 ## Index
 
