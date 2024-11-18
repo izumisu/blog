@@ -1,8 +1,8 @@
 # Welcome to loost, a place to list my long blog.
 
 ## Index
-
-1. [Simplify my phone](#clean-my-phone)
+---
+1. [Clean my phone](#clean-my-phone)
 2. [Blogflow](#blogflow)
 3. [Scrolling addiction](#scrolling-addiction)
 4. [Bookmark](#bookmark)
@@ -14,9 +14,8 @@
 10. [Arch installaion](#arch-installaion)
 11. [Memory in college](#memory-in-college)
 
----
-
 ## Clean my phone
+---
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
 
 - Meituan(a food delivery app)
@@ -41,9 +40,8 @@ Why? Here comes the reasons:
 2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important, Bing is enough.
 3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I form a bad consume habit: spending early.
 
----
-
 ## Blogflow
+---
 Four years ago, I started to write my blog.
 
 I clearly remember, I bought a server from AliCloud, and clumsily started to figure how to create a blog and publish it.
@@ -72,9 +70,8 @@ Now, the answer is: Vim+Pandoc+Server.
 
 I write the blog on *vim*, and use *pandoc* to finish markdown2html, then upload to server, of course I also push it to my git repo. The last three things are done by *bash* script.
 
----
-
 ## Scrolling addiction
+---
 I have just formed a new habit: put my phone into a box, and start my needy finishing jobs.
 
 Why? Because I find myself distracted when my phone along my side, often I choose to work half an hour or less and scroll my phone for near one hour or more. These make me confuse:
@@ -108,9 +105,8 @@ After some checks on web, I find some advice, listed below:
 
 These are the advice that I think is useful, you could pick up one or two and just start it.
 
----
-
 ## Bookmark
+---
 After using firefox sync for a while, I found the bookmark sync is not that simple enough, so write a post for my recent bookmarks for daily use:
 
 - [lwn](https://lwn.net/)
@@ -125,14 +121,10 @@ After using firefox sync for a while, I found the bookmark sync is not that simp
 - [wechat-web](https://wx2.qq.com/?target=t)
 - [sync disk](https://www.jianguoyun.com/#/sandbox/177d951/40925a4f22e6902a/%2F/)
 
----
-
 ## Simplify my pc
-
 ---
 
 ## Seven months in Day1
-
 ---
 
 ## 
