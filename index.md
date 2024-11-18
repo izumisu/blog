@@ -1,17 +1,22 @@
-# Hello, welcome to loost(loong list).
-
-![mountain](https://images.pling.com/img/00/00/24/01/13/2224566/1080x1920.jpg)
+# Welcome to loost, a place to list my long blog.
 
 ## Index
 
-1. [Simplify my phone](#as-simple-as-possible:-phone)
+1. [Simplify my phone](#clean-my-phone)
 2. [Blogflow](#blogflow)
 3. [Scrolling addiction](#scrolling-addiction)
 4. [Bookmark](#bookmark)
+5. [Simplify my pc](#simplify-my-pc)
+6. [Seven months in Day1](#seven-months-in-day1)
+7. [Password manager](#password-manager)
+8. [Interview with Tencent](#interview-with-tencent)
+9. [Keyboard selection](#keyboard-selection)
+10. [Arch installaion](#arch-installaion)
+11. [Memory in college](#memory-in-college)
 
 ---
 
-## As simple as possible: phone
+## Clean my phone
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
 
 - Meituan(a food delivery app)
@@ -26,13 +31,14 @@ For a more focus phone using habit, this time I have shrinked the apps on my pho
 The apps above, some of them I have revoked the account, and none of them I will remind on my phone. The services or apps I\'m still using are:
 
 - Phone call
-- Mail
+- Outlook
 - Wechat
+- Bing
 
-Why? Here comes the reason:
+Why? Here comes the reasons:
 
-1. The uniapp in Wechat, which is kind of web app, could help me done a lot, like checking map, buying food and calling taxi. Also, Wechat itself has the QRcode payment function.
-2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important.
+1. The uniapp in wechat, which is kind of web app, could help me done a lot, like checking map, buying food and calling taxi. Also, wechat itself has the QRcode payment function.
+2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important, Bing is enough.
 3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I form a bad consume habit: spending early.
 
 ---
@@ -44,20 +50,27 @@ I clearly remember, I bought a server from AliCloud, and clumsily started to fig
 
 After that, I had tried tons of ways just for writing my blog, including:
 
-- Wordpress on a server
-- Baota on a server
+- Wordpress on server
+- Baota on server
 - Obsidian Publish
-- Nicola blog generator
-- Hugo blog generator
+- Nicola
+- Hugo
 - Notion free web blog
-- Siyuan community one-click publish
+- Siyuan community publish
+- Vimwiki+Server
+- Element.io
+- Mastodon
 
 Sadly, none of them fits my need. I think a blog should be like this:
 
 1. Simple. No comment function, even no picture, just words.
 2. Centralized. The tools that I use to write blog could be used to do other jobs, such as writing code or something else.
-3. Edit-friendly. The editor must be one of the tools I\'m familiar with.
-4. Easy-operate. Could work with git, and easy to upload my cloud virtual host.
+3. Editor friendly. The editor must be one of the tools I\'m familiar with.
+4. Easy to use. Could work with git, and easy to upload my cloud virtual host.
+
+Now, the answer is: Vim+Pandoc+Server.
+
+I write the blog on *vim*, and use *pandoc* to finish markdown2html, then upload to server, of course I also push it to my git repo. The last three things are done by *bash* script.
 
 ---
 
@@ -98,7 +111,7 @@ These are the advice that I think is useful, you could pick up one or two and ju
 ---
 
 ## Bookmark
-After using firefox sync for a while, I found the bookmark sync is not that useful, so I write a page for my recently bookmark for daily use.
+After using firefox sync for a while, I found the bookmark sync is not that simple enough, so write a post for my recent bookmarks for daily use:
 
 - [lwn](https://lwn.net/)
 - [telegra post](https://telegra.ph/)
@@ -111,3 +124,15 @@ After using firefox sync for a while, I found the bookmark sync is not that usef
 - [wps online](https://www.kdocs.cn/latest)
 - [wechat-web](https://wx2.qq.com/?target=t)
 - [sync disk](https://www.jianguoyun.com/#/sandbox/177d951/40925a4f22e6902a/%2F/)
+
+---
+
+## Simplify my pc
+
+---
+
+## Seven months in Day1
+
+---
+
+## 
