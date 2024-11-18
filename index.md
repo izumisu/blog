@@ -32,6 +32,8 @@ Why? Here comes the reason:
 2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important.
 3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I form a bad consume habit: spending early.
 
+---
+
 ### Blogflow
 Four years ago, I started to write my blog.
 
