@@ -1,7 +1,5 @@
 # Hello, welcome to loost(loong list).
 
-it\'s hard
-
 Why long list? Just tiring making links this or that, one page and all.
 
 ## Index
@@ -41,42 +39,29 @@ I clearly remember, I bought a server from AliCloud, and clumsily started to fig
 
 After that, I had tried tons of ways just for writing my blog, including:
 
-    Wordpress on a server
-    Baota on a server
-    Obsidian Publish
-    Nicola blog generator
-    Hugo blog generator
-    Notion free web blog
-    Siyuan community one-click publish
+- Wordpress on a server
+- Baota on a server
+- Obsidian Publish
+- Nicola blog generator
+- Hugo blog generator
+- Notion free web blog
+- Siyuan community one-click publish
 
 Sadly, none of them fits my need. I think a blog should be like this:
 
-    Simple. No comment function, even no picture, just words.
-    Centralized. The tools that I use to write blog could be used to do other jobs, such as writing code or something else.
-    Edit-friendly. The editor must be one of the tools I'm familiar with.
-    Easy-operate. Could work with git, and easy to upload my cloud virtual host.
-
----
-
-It was a peaceful night, when I randomly browsed the web, I found someone using vimwiki to publish their blog. Then I installed vimwiki and undoubedly gave it a try.
-
-This way is perfect(p.s. at least at that time).
-
-It is really simple. I just need to write vimwiki on my PC, then type :VimwikiAll2HTML, and leave it to my script and cron. The first one is for uploading, the last one is for script automation.
-
-When I finish setting, the blog in vimwiki will automatically upload at a specific time.
-
----
+1. Simple. No comment function, even no picture, just words.
+2. Centralized. The tools that I use to write blog could be used to do other jobs, such as writing code or something else.
+3. Edit-friendly. The editor must be one of the tools I'm familiar with.
+4. Easy-operate. Could work with git, and easy to upload my cloud virtual host.
 
 ### Scrolling addiction
 I have just formed a new habit: put my phone into a box, and start my needy finishing jobs.
 
 Why? Because I find myself distracted when my phone along my side, often I choose to work half an hour or less and scroll my phone for near one hour or more. These make me confuse:
 
-    Why I become so addicted to phone, even I'm not willing to do so?
-    All are the electronic devices, why I only get addicted on phone, rather than laptop or desktop?
-    Although I know to me, the best solution is TITB(Throw It into the Box). Is there any other methods?
-
+- Why I become so addicted to phone, even I'm not willing to do so?
+- All are the electronic devices, why I only get addicted on phone, rather than laptop or desktop?
+- Although I know to me, the best solution is TITB(Throw It into the Box). Is there any other methods?
 
 Keeping these questions in mind, I start to read some website, and here are some explanation.
 
@@ -90,16 +75,15 @@ Keep you addicted, keep you stick on it.
 
 The phone is perhaps, the easiest device that could be used in any scenery. Whether come to toilet, or bed, or waiting red light, or anything, it just so easy to pick up, and then, make the "pick-up" habit firmly enough.
 
-
 So, how to break it?
 
 To me, I have no choice. Because I have to do the github project and find a job. If keep picking up phone, I will definitely lose any chance of finding jobs. So I just throw it into the box.
 
 After some checks on web, I find some advice, listed below:
 
-    Know the motivation of get rid of the addicted.
-    Make your phone less attracted.(for me i use before launcher).
-    Mute whatever you could mute.
-    Put it away when in door.
+1. Know the motivation of get rid of the addicted.
+2. Make your phone less attracted.(for me i use before launcher).
+3. Mute whatever you could mute.
+4. Put it away when in door.
 
-These are the advice that I think useful, you could pick up one or two and just start it.
+These are the advice that I think is useful, you could pick up one or two and just start it.
