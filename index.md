@@ -11,7 +11,7 @@ Why long list? Just tiring making links this or that, one page and all.
 ### As simple as possible: phone
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
 
-- Meituan(a food delivery app)
+* Meituan(a food delivery app)
 - Taobao(an online shopping app)
 - Jingdong(like Taobao but more focusing on deliver speed)
 - Alipay(like Paypal)
