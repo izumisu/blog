@@ -1,12 +1,13 @@
 # Hello, welcome to loost(loong list).
 
-Why long list? Just tiring making links this or that, one page and all.
-
 ## Index
 
 1. [Simplify my phone](#as-simple-as-possible:-phone)
 2. [Blogflow](#blogflow)
 3. [Scrolling addiction](#scrolling-addiction)
+4. [Bookmark](#bookmark)
+
+---
 
 ## As simple as possible: phone
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
@@ -56,6 +57,8 @@ Sadly, none of them fits my need. I think a blog should be like this:
 3. Edit-friendly. The editor must be one of the tools I\'m familiar with.
 4. Easy-operate. Could work with git, and easy to upload my cloud virtual host.
 
+---
+
 ## Scrolling addiction
 I have just formed a new habit: put my phone into a box, and start my needy finishing jobs.
 
@@ -89,3 +92,20 @@ After some checks on web, I find some advice, listed below:
 4. Put it away when in door.
 
 These are the advice that I think is useful, you could pick up one or two and just start it.
+
+---
+
+## Bookmark
+After using firefox sync for a while, I found the bookmark sync is not that useful, so I write a page for my recently bookmark for daily use.
+
+[lwn](https://lwn.net/)
+[telegra post](https://telegra.ph/)
+[password](https://spectre.pw/)
+[q&a](https://stackoverflow.com/)
+[coursera](https://www.coursera.org/programs/sobma?authProvider=bancolombia)
+[csdiy](https://csdiy.wiki/)
+[typing prac](https://www.keybr.com/)
+[comic](https://xkcd.com/571/)
+[wps online](https://www.kdocs.cn/latest)
+[wechat-web](https://wx2.qq.com/?target=t)
+[sync disk](https://www.jianguoyun.com/#/sandbox/177d951/40925a4f22e6902a/%2F/)
