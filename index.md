@@ -1,7 +1,9 @@
 # Welcome to loost, a place to list my long blog.
 
 ## Index
+
 ---
+
 1. [Clean my phone](#clean-my-phone)
 2. [Blogflow](#blogflow)
 3. [Scrolling addiction](#scrolling-addiction)
