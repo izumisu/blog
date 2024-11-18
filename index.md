@@ -11,7 +11,7 @@ Why long list? Just tiring making links this or that, one page and all.
 ### As simple as possible: phone
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
 
-* Meituan(a food delivery app)
+- Meituan(a food delivery app)
 - Taobao(an online shopping app)
 - Jingdong(like Taobao but more focusing on deliver speed)
 - Alipay(like Paypal)
@@ -20,7 +20,7 @@ For a more focus phone using habit, this time I have shrinked the apps on my pho
 - Clash(network proxy)
 - Some bank apps
 
-The apps above, some of them I have revoked the account, and none of them I will remind on my phone. The services or apps I'm still using are:
+The apps above, some of them I have revoked the account, and none of them I will remind on my phone. The services or apps I\'m still using are:
 
 - Phone call
 - Mail
@@ -51,7 +51,7 @@ Sadly, none of them fits my need. I think a blog should be like this:
 
 1. Simple. No comment function, even no picture, just words.
 2. Centralized. The tools that I use to write blog could be used to do other jobs, such as writing code or something else.
-3. Edit-friendly. The editor must be one of the tools I'm familiar with.
+3. Edit-friendly. The editor must be one of the tools I\'m familiar with.
 4. Easy-operate. Could work with git, and easy to upload my cloud virtual host.
 
 ### Scrolling addiction
@@ -59,7 +59,7 @@ I have just formed a new habit: put my phone into a box, and start my needy fini
 
 Why? Because I find myself distracted when my phone along my side, often I choose to work half an hour or less and scroll my phone for near one hour or more. These make me confuse:
 
-- Why I become so addicted to phone, even I'm not willing to do so?
+- Why I become so addicted to phone, even I\'m not willing to do so?
 - All are the electronic devices, why I only get addicted on phone, rather than laptop or desktop?
 - Although I know to me, the best solution is TITB(Throw It into the Box). Is there any other methods?
 
@@ -73,7 +73,7 @@ And the worst thing is, the design of phone and social app, whatever they are, w
 
 Keep you addicted, keep you stick on it.
 
-The phone is perhaps, the easiest device that could be used in any scenery. Whether come to toilet, or bed, or waiting red light, or anything, it just so easy to pick up, and then, make the "pick-up" habit firmly enough.
+The phone is perhaps, the easiest device that could be used in any scenery. Whether come to toilet, or bed, or waiting red light, or anything, it just so easy to pick up, and then, make the \"pick-up\" habit firmly enough.
 
 So, how to break it?
 
