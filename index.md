@@ -1,22 +1,8 @@
 # Welcome to loost, a place to my long-list-blog.
 
-## Index
+## RECENT POST
 
----
-
-1. [Clean my phone](#clean-my-phone)
-2. [Blogflow](#blogflow)
-3. [Scrolling addiction](#scrolling-addiction)
-4. [Bookmark](#bookmark)
-5. [Simplify my pc](#simplify-my-pc)
-6. [Seven months in Day1](#seven-months-in-day1)
-7. [Password manager](#password-manager)
-8. [Interview with Tencent](#interview-with-tencent)
-9. [Keyboard selection](#keyboard-selection)
-10. [Arch installaion](#arch-installaion)
-11. [Memory in college](#memory-in-college)
-
-## Clean my phone
+### Clean my phone
 
 ---
 
@@ -44,7 +30,7 @@ Why? Here comes the reasons:
 2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important, Bing is enough.
 3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I form a bad consume habit: spending early.
 
-## Blogflow
+### Blogflow
 
 ---
 
@@ -76,7 +62,7 @@ Now, the answer is: Vim+Pandoc+Server.
 
 I write the blog on *vim*, and use *pandoc* to finish markdown2html, then upload to server, of course I also push it to my git repo. The last three things are done by *bash* script.
 
-## Scrolling addiction
+### Scrolling addiction
 
 ---
 
@@ -113,7 +99,7 @@ After some checks on web, I find some advice, listed below:
 
 These are the advice that I think is useful, you could pick up one or two and just start it.
 
-## Bookmark
+### Bookmark
 
 ---
 
@@ -131,12 +117,14 @@ After using firefox sync for a while, I found the bookmark sync is not that simp
 - [wechat-web](https://wx2.qq.com/?target=t)
 - [sync disk](https://www.jianguoyun.com/#/sandbox/177d951/40925a4f22e6902a/%2F/)
 
-## Simplify my pc
+### Simplify my pc
 
 ---
 
-## Seven months in Day1
+### Seven months in Day1
 
 ---
 
-## 
+### 
+
+## MONTHLY ARCHIVE
