@@ -1,4 +1,4 @@
-# loost, Long list blog from alansu
+# loost, long list blog from alansu
 
 ## RECENT POST
 
@@ -26,7 +26,7 @@ Why? Here comes the reasons:
 
 1. The uniapp in wechat, which is kind of web app, could help me done a lot, like checking map, buying food and calling taxi. Also, wechat itself has the QRcode payment function.
 2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important, Bing is enough.
-3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I form a bad consume habit: spending early.
+3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I formed a bad habit: spending early.
 
 ---
 
@@ -109,11 +109,10 @@ After using firefox sync for a while, I found the bookmark sync is not that simp
 - [q&a](https://stackoverflow.com/)
 - [coursera](https://www.coursera.org/programs/sobma?authProvider=bancolombia)
 - [csdiy](https://csdiy.wiki/)
-- [typing prac](https://www.keybr.com/)
 - [comic](https://xkcd.com/571/)
-- [wps online](https://www.kdocs.cn/latest)
-- [wechat-web](https://wx2.qq.com/?target=t)
-- [sync disk](https://www.jianguoyun.com/#/sandbox/177d951/40925a4f22e6902a/%2F/)
+- [sync disk](https://www.tarsnap.com/index.html)
+
+And I have write a telegra.ph for my bookmark quick access, refer [here](https://telegra.ph/bookmark-11-21-4).
 
 ---
 
