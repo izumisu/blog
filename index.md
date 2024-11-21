@@ -2,7 +2,7 @@
 
 ## RECENT POST
 
-### Clean my phone
+## Clean my phone
 
 For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
 
@@ -30,7 +30,7 @@ Why? Here comes the reasons:
 
 ---
 
-### Blogflow
+## Blogflow
 
 Four years ago, I started to write my blog.
 
@@ -62,7 +62,7 @@ I write the blog on *vim*, and use *pandoc* to finish markdown2html, then upload
 
 ---
 
-### Scrolling addiction
+## Scrolling addiction
 
 I have just formed a new habit: put my phone into a box, and start my needy finishing jobs.
 
@@ -99,7 +99,7 @@ These are the advice that I think is useful, you could pick up one or two and ju
 
 ---
 
-### Bookmark
+## Bookmark
 
 After using firefox sync for a while, I found the bookmark sync is not that simple enough, so write a post for my recent bookmarks for daily use:
 
@@ -116,11 +116,11 @@ And I have write a telegra.ph for my bookmark quick access, refer [here](https:/
 
 ---
 
-### Simplify my pc
+## Simplify my pc
 
 ---
 
-### Seven months in Day1
+## Seven months in Day1
 
 ---
 
