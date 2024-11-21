@@ -1,7 +1,4 @@
-# loost
-Long list blog from alansu
-
----
+# loost, Long list blog from alansu
 
 ## RECENT POST
 
@@ -125,5 +122,7 @@ After using firefox sync for a while, I found the bookmark sync is not that simp
 ---
 
 ### Seven months in Day1
+
+---
 
 ## MONTHLY ARCHIVE
