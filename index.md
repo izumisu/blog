@@ -121,6 +121,24 @@ And I have write a telegra.ph for my bookmark quick access, refer [here](https:/
 
 This blog I want to write for a long time, but hard to find a quiet place to write it.
 
+I spent 9k(about $1200) CNY to join a so-called \"hacker team\" in Feburary. At that time I was finding jobs, while lost in anxious, I just want to do something about security, and this team leader promised that \"you could dig several bugs if you spend time to learn hard\".
+
+After getting into the team, I started to learn web bug hunting, until Augest, I had found two bugs on Ali. At the mean time, I went to the offline activity which was raised by that team leader, twice.
+
+Directly jump to the conclusion: **the team leader is a cheater, the whole team just a bunch of script kiddens.**
+
+1. Before joining the team, the leader will tell you, learn tech&earn money, but he won't say, the payback to white hats was reducing, every day, because of the economy.
+2. The big bounty requires long-time practice, there are people more than 300 in this team, but the ones that could earn more than 9k are less than fifty.
+3. The leader just want your money, of course he would say: oh, I work hard to find these bounty projects for you guys, if you can't earn, shame on your laziness! But he also know that, it's impossible for all of the teammate to do these bounty projects.
+4. Noisy wechat groups, after joining in the team, I have entered almost ten small groups! Either for bug hunting program or chatting. The people there are noisy, flighty and impetuous. In my eyes, they are just a bunch of idiot.
+5. Script kidden. The techniques they use to hunt the bugs are just scripting, without coding. Yes, they use the methods ten years ago.
+
+As long as I discovered that I had been fooled, I just quit. After this, I just lost any confidence of any courses or things like that in China, as I say, they just want to make more money and don't care what you think.
+
+The most funny thing is the slogan of the team: **It's always day1**.
+
+It could be changed to: **It's always money**.
+
 ## MONTHLY ARCHIVE
 
 nothing here~
