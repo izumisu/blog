@@ -107,6 +107,7 @@ After using firefox sync for a while, I found the bookmark sync is not that simp
 - [telegra post](https://telegra.ph/)
 - [password](https://spectre.pw/)
 - [q&a](https://stackoverflow.com/)
+- [Java API](https://docs.oracle.com/javase/6/docs/api/)
 - [coursera](https://www.coursera.org/programs/sobma?authProvider=bancolombia)
 - [csdiy](https://csdiy.wiki/)
 - [comic](https://xkcd.com/571/)
@@ -116,12 +117,10 @@ And I have write a telegra.ph for my bookmark quick access, refer [here](https:/
 
 ---
 
-## Simplify my pc
+## Seven months in \"Day1team\"
 
----
-
-## Seven months in Day1
-
----
+This blog I want to write for a long time, but hard to find a quiet place to write it.
 
 ## MONTHLY ARCHIVE
+
+nothing here~
