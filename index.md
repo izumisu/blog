@@ -1,4 +1,4 @@
-# loost, long list blog from alansu
+# loost, a blog from alansu
 
 ## RECENT POST
 
@@ -73,14 +73,14 @@ These are the advice that I think is useful, you could pick up one or two and ju
 
 This blog I want to write for a long time, but hard to find a quiet place to write it.
 
-I spent 9kCNY(about $1200) to join a so-called \"hacker team\" in Feburary. At that time I was finding jobs, while lost in anxious, I just wanted to do something about security, and this team leader promised that \"you could dig several bugs if you spend time to learn hard\".
+I spent 9000 yuan(about $1200) to join a hacker team so-called \"Day1team\" in Feburary. At that time I was finding jobs, while lost in anxious, I just wanted to do something about security, and this team leader promised that \"you could dig several bugs if you spend time to learn it\".
 
-After getting into the team, I started to learn web bug hunting, until Augest, I had found two bugs on Ali. At the mean time, I went to the offline activity which was raised by that team leader, twice.
+After joining into the team, I started to learn web bug hunting. Until Augest, I had found two bugs on ASRC. At the mean time, I went to the offline activity which was raised by that team leader, twice. These are the things I have done in that team.
 
-Directly jump to the conclusion: **the team leader is a cheater, the whole team just a bunch of script kiddens.**
+Directly jump to the conclusion: **the team leader is a cheater, the whole team is a bunch of script kiddens.**
 
-1. Before joining the team, the leader will tell you, learn tech&earn money, but he won\'t say, the payback to white hats was reducing, every day, because of the economy.
-2. The big bounty requires long-time practice, there are people more than 300 in this team, but the ones that could earn more than 9k are less than fifty.
+1. Before joining the team, the leader will tell you, learn tech&earn money, but he won\'t say, at least before you pay the bill, that the bughunting is time wasting and meaningless, the bounty of the SRC is miserable. A lot of teammates have already give up doing this stuff.
+2. The learning atmosphere is \*\*\*\*
 3. The leader just want your money, of course he would say: oh, I work hard to find these bounty projects for you guys, if you can\'t earn, shame on your laziness! But he also know that, it\'s impossible for all of the teammate to do these bounty projects, and the learning resources are **not** equally acquired. If you have time, you could have offline meeting with him. If not, just good luck.
 4. Noisy Wechat Groups. After joining in the team, I have entered almost ten small groups! Either for bug hunting program or tech chatting. The people there are noisy, flighty and impetuous. Neither chatting about women nor complaining about jobs. In my eye, they are just a bunch of idiots.
 5. Lazy, Stupid Script Kidden. The techniques they use to hunt the bugs are just scripting, without coding. Yes, they use the methods ten years ago. Some of them always dream to let other help them do anything, or expect other could answer all their questions for free. I haven\'t met this kind of man before! Even in Discord!
@@ -95,7 +95,7 @@ It could be changed to: **It\'s always money**.
 
 Phone is Phone
 
-Recently I have read an [article](https://www.jianshu.com/p/b3d54e14a49b), and have the same feeling with its author. PS If you are English reader, you could use google translate, or it's ok if don't know what it means.
+Recently I have read an [article](https://www.jianshu.com/p/b3d54e14a49b), and have the same feeling with its author. PS If you are English reader, you could use google translate, or it\'s ok if don\'t know what it means.
 
 The main idea of the article is: The author expressed his heart-tried of social apps usage these years, and finally gave up using *Wechat*(instant message app in China).
 
@@ -115,17 +115,17 @@ For me, these year the social apps I have used more than three above, they are:
 - All kinds of IRC clients
 and more
 
-The reason I use these app, either feeling lonely and want to chat with girls, or just wanna improve my English.
+The reasons I use these app, either feeling lonely and want to chat with girls, or just wanna improve my English.
 
-Few years later, I just feel more boring and anxious, and wanna quit(p.s. I have already quit when I'm writing this line).
+Few years later, I just feel more boring and anxious, and wanna quit(p.s. I have already quit when I\'m writing this line).
 
 You probably have heard this: **Human is social animal**. But I want to say: Human is offline-social animal, at least I am.
 
-I could have 20 girls in my wechat contact, could chat with foreigners all over the world, and could type anything I want to chat with others, so what? I'm still sitting alone, facing my phone/pc, in a small rented room, nearly having no friend I could hang out with.
+I could have 20 girls in my wechat contact, could chat with foreigners all over the world, and could type anything I want to chat with others, so what? I\'m still sitting alone, facing my phone/pc, in a small rented room, nearly having no friend I could hang out with.
 
-And most important thing is, for me, no matter what kinds of app, the end of the chatting is **nothing/nobody to chat**. Look back the history of these apps, I find almost all the messages are useless, meaningless, thoughtless. Besides, everyone has his/her own life, both have no interest to chat with a man/woman who isn't really important to him/her.
+And most important thing is, for me, no matter what kinds of app, the end of the chatting is **nothing/nobody to chat**. Look back the history of these apps, I find almost all the messages are useless, meaningless, thoughtless. Besides, everyone has his/her own life, both have no interest to chat with a man/woman who isn\'t really important to him/her.
 
-Steve Jobs release first [iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) on 2007. 17 years later, I'm quit, and go back to phone, message and email.
+Steve Jobs released first [iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) on 2007. 17 years later, I\'m quit, and go back to phone, message and email.
 
 It could be a game box, could be a music player, could be a social center, but I wanna say:
 
