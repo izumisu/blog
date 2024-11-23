@@ -2,34 +2,6 @@
 
 ## RECENT POST
 
-## Clean my phone
-
-For a more focus phone using habit, this time I have shrinked the apps on my phone, they are:
-
-- Meituan(a food delivery app)
-- Taobao(an online shopping app)
-- Jingdong(like Taobao but more focusing on deliver speed)
-- Alipay(like Paypal)
-- Amap(like GoogleMap)
-- DuckDuckGo(browser)
-- Clash(network proxy)
-- Some bank apps
-
-The apps above, some of them I have revoked the account, and none of them I will remind on my phone. The services or apps I\'m still using are:
-
-- Phone call
-- Outlook
-- Wechat
-- Bing
-
-Why? Here comes the reasons:
-
-1. The uniapp in wechat, which is kind of web app, could help me done a lot, like checking map, buying food and calling taxi. Also, wechat itself has the QRcode payment function.
-2. I seldom use outside net on my phone, but mainly on my desktop, so DuckDuckGo and Clash are not that important, Bing is enough.
-3. I have revoked the accounts of online shopping apps(Alipay, Taobao, etc), because I find a strange thing: the things which are bought from online shopping, in the past decade, seldom are my truly need. And in this process, I formed a bad habit: spending early.
-
----
-
 ## Blogflow
 
 Four years ago, I started to write my blog.
@@ -86,9 +58,7 @@ The phone is perhaps, the easiest device that could be used in any scenery. Whet
 
 So, how to break it?
 
-To me, I have no choice. Because I have to do the github project and find a job. If keep picking up phone, I will definitely lose any chance of finding jobs. So I just throw it into the box.
-
-After some checks on web, I find some advice, listed below:
+Here are some methods:
 
 1. Know the motivation of get rid of the addicted.
 2. Make your phone less attracted.(for me i use before launcher).
@@ -96,24 +66,6 @@ After some checks on web, I find some advice, listed below:
 4. Put it away when in door.
 
 These are the advice that I think is useful, you could pick up one or two and just start it.
-
----
-
-## Bookmark
-
-After using firefox sync for a while, I found the bookmark sync is not that simple enough, so write a post for my recent bookmarks for daily use:
-
-- [lwn](https://lwn.net/)
-- [telegra post](https://telegra.ph/)
-- [password](https://spectre.pw/)
-- [q&a](https://stackoverflow.com/)
-- [Java API](https://docs.oracle.com/javase/6/docs/api/)
-- [coursera](https://www.coursera.org/programs/sobma?authProvider=bancolombia)
-- [csdiy](https://csdiy.wiki/)
-- [comic](https://xkcd.com/571/)
-- [sync disk](https://www.tarsnap.com/index.html)
-
-And I have write a telegra.ph for my bookmark quick access, refer [here](https://telegra.ph/bookmark-11-21-4).
 
 ---
 
@@ -138,6 +90,48 @@ As long as I discovered that I had been fooled, I just quit. At this point, I lo
 The most funny thing is the slogan of the team: **It\'s always day1**.
 
 It could be changed to: **It\'s always money**.
+
+---
+
+Phone is Phone
+
+Recently I have read an [article](https://www.jianshu.com/p/b3d54e14a49b), and have the same feeling with its author. PS If you are English reader, you could use google translate, or it's ok if don't know what it means.
+
+The main idea of the article is: The author expressed his heart-tried of social apps usage these years, and finally gave up using *Wechat*(instant message app in China).
+
+And I, agree with him.
+
+As Gen Z in China, before high school we use *QQ*(another instant app), during high school and college we use *Dingtalk*(collaborate app), Wechat and QQ.
+
+For me, these year the social apps I have used more than three above, they are:
+
+- Kehua(an AI-base online 1v1 soul mate app)
+- Telegram
+- Hellotalk
+- Tandem
+- Gorkor(a random mail-like app, focusing on slow communication)
+- Qingtenzhilian(a college meet&dating app, focusing on strictly selection)
+- Element
+- All kinds of IRC clients
+and more
+
+The reason I use these app, either feeling lonely and want to chat with girls, or just wanna improve my English.
+
+Few years later, I just feel more boring and anxious, and wanna quit(p.s. I have already quit when I'm writing this line).
+
+You probably have heard this: **Human is social animal**. But I want to say: Human is offline-social animal, at least I am.
+
+I could have 20 girls in my wechat contact, could chat with foreigners all over the world, and could type anything I want to chat with others, so what? I'm still sitting alone, facing my phone/pc, in a small rented room, nearly having no friend I could hang out with.
+
+And most important thing is, for me, no matter what kinds of app, the end of the chatting is **nothing/nobody to chat**. Look back the history of these apps, I find almost all the messages are useless, meaningless, thoughtless. Besides, everyone has his/her own life, both have no interest to chat with a man/woman who isn't really important to him/her.
+
+Steve Jobs release first [iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) on 2007. 17 years later, I'm quit, and go back to phone, message and email.
+
+It could be a game box, could be a music player, could be a social center, but I wanna say:
+
+"Phone is phone."
+
+---
 
 ## MONTHLY ARCHIVE
 
