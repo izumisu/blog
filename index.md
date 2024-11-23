@@ -121,19 +121,19 @@ And I have write a telegra.ph for my bookmark quick access, refer [here](https:/
 
 This blog I want to write for a long time, but hard to find a quiet place to write it.
 
-I spent 9k(about $1200) CNY to join a so-called \"hacker team\" in Feburary. At that time I was finding jobs, while lost in anxious, I just wanted to do something about security, and this team leader promised that \"you could dig several bugs if you spend time to learn hard\".
+I spent 9kCNY(about $1200) to join a so-called \"hacker team\" in Feburary. At that time I was finding jobs, while lost in anxious, I just wanted to do something about security, and this team leader promised that \"you could dig several bugs if you spend time to learn hard\".
 
 After getting into the team, I started to learn web bug hunting, until Augest, I had found two bugs on Ali. At the mean time, I went to the offline activity which was raised by that team leader, twice.
 
 Directly jump to the conclusion: **the team leader is a cheater, the whole team just a bunch of script kiddens.**
 
-1. Before joining the team, the leader will tell you, learn tech&earn money, but he won't say, the payback to white hats was reducing, every day, because of the economy.
+1. Before joining the team, the leader will tell you, learn tech&earn money, but he won\'t say, the payback to white hats was reducing, every day, because of the economy.
 2. The big bounty requires long-time practice, there are people more than 300 in this team, but the ones that could earn more than 9k are less than fifty.
-3. The leader just want your money, of course he would say: oh, I work hard to find these bounty projects for you guys, if you can't earn, shame on your laziness! But he also know that, it\'s impossible for all of the teammate to do these bounty projects, and the learning resources are **not** equally acquired. If you have time, you could have offline meeting with him. If not, just good luck.
-4. Noisy wechat groups, after joining in the team, I have entered almost ten small groups! Either for bug hunting program or chatting. The people there are noisy, flighty and impetuous. Neither chatting about women nor complaining about jobs. In my eye, they are just a bunch of idiot.
-5. Lazy, Stupid Script Kidden. The techniques they use to hunt the bugs are just scripting, without coding. Yes, they use the methods ten years ago. Some of them always dream to let other help them do anything, or expect other could answer all their questions for free. I haven't met this kind of man before! Even in Discord!
+3. The leader just want your money, of course he would say: oh, I work hard to find these bounty projects for you guys, if you can\'t earn, shame on your laziness! But he also know that, it\'s impossible for all of the teammate to do these bounty projects, and the learning resources are **not** equally acquired. If you have time, you could have offline meeting with him. If not, just good luck.
+4. Noisy Wechat Groups. After joining in the team, I have entered almost ten small groups! Either for bug hunting program or tech chatting. The people there are noisy, flighty and impetuous. Neither chatting about women nor complaining about jobs. In my eye, they are just a bunch of idiots.
+5. Lazy, Stupid Script Kidden. The techniques they use to hunt the bugs are just scripting, without coding. Yes, they use the methods ten years ago. Some of them always dream to let other help them do anything, or expect other could answer all their questions for free. I haven\'t met this kind of man before! Even in Discord!
 
-As long as I discovered that I had been fooled, I just quit. At this point, I lose any confidence of any courses or things like that in China, as I say, they just want to make more money and don't care what you feel.
+As long as I discovered that I had been fooled, I just quit. At this point, I lose any confidence of any courses or things like that in Chinar. As I say, they just want to make more money and don\'t care what you feel.
 
 The most funny thing is the slogan of the team: **It\'s always day1**.
 
