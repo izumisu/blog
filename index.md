@@ -80,14 +80,13 @@ After joining into the team, I started to learn web bug hunting. Until Augest, I
 Directly jump to the conclusion: **the team leader is a cheater, the whole team is a bunch of script kiddens.**
 
 1. Before joining the team, the leader will tell you, learn tech&earn money, but he won\'t say, at least before you pay the bill, that the bughunting is time wasting and meaningless, the bounty of the SRC is miserable. A lot of teammates have already give up doing this stuff.
-2. The learning atmosphere is \*\*\*\*
-3. The leader just want your money, of course he would say: oh, I work hard to find these bounty projects for you guys, if you can\'t earn, shame on your laziness! But he also know that, it\'s impossible for all of the teammate to do these bounty projects, and the learning resources are **not** equally acquired. If you have time, you could have offline meeting with him. If not, just good luck.
+2. The learning atmosphere is \*\*\*\*. The newbie is rude, asking question without thoughtfully. The leader just teach you carelessly, compared to the 9000 yuan, everything he had done just like a joke.
+3. No one dare to challenge the authority of leader. Almost all his points are right, his power is dominance, no one dare to speak anything about him, or your fee just wasted.
 4. Noisy Wechat Groups. After joining in the team, I have entered almost ten small groups! Either for bug hunting program or tech chatting. The people there are noisy, flighty and impetuous. Neither chatting about women nor complaining about jobs. In my eye, they are just a bunch of idiots.
-5. Lazy, Stupid Script Kidden. The techniques they use to hunt the bugs are just scripting, without coding. Yes, they use the methods ten years ago. Some of them always dream to let other help them do anything, or expect other could answer all their questions for free. I haven\'t met this kind of man before! Even in Discord!
 
-As long as I discovered that I had been fooled, I just quit. At this point, I lose any confidence of any courses or things like that in Chinar. As I say, they just want to make more money and don\'t care what you feel.
+As long as I discovered that I had been fooled, I just quit. At this point, I lose any confidence of any courses or things like that in China. As I say, they just want to make money, showing off their new buying Ferrari and don\'t care what you feel.
 
-The most funny thing is the slogan of the team: **It\'s always day1**.
+The most funny thing is the slogan of this team: **It\'s always day1**.
 
 It could be changed to: **It\'s always money**.
 
