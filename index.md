@@ -79,12 +79,12 @@ After joining into the team, I started to learn web bug hunting. Until Augest, I
 
 Directly jump to the conclusion: **the team leader is a cheater, the whole team is a bunch of script kiddens.**
 
-1. Before joining the team, the leader will tell you, learn tech&earn money, but he won\'t say, at least before you pay the bill, that the bughunting is time wasting and meaningless, the bounty of the SRC is miserable. A lot of teammates have already give up doing this stuff.
+1. Before joining the team, the leader will tell you, learn tech&earn money, but he won\'t say, at least before you pay the fee, that the bug hunting is time wasting and meaningless, the bounty of the SRC is miserable. A lot of teammates have already give up doing this stuff.
 2. The learning atmosphere is \*\*\*\*. The newbie is rude, asking question without thoughtfully. The leader just teach you carelessly, compared to the 9000 yuan, everything he had done just like a joke.
-3. No one dare to challenge the authority of leader. Almost all his points are right, his power is dominance, no one dare to speak anything about him, or your fee just wasted.
-4. Noisy Wechat Groups. After joining in the team, I have entered almost ten small groups! Either for bug hunting program or tech chatting. The people there are noisy, flighty and impetuous. Neither chatting about women nor complaining about jobs. In my eye, they are just a bunch of idiots.
+3. No one dare to challenge the authority of leader. Almost all his points and views are right, his power is dominance, no one dare to speak anything about him, or your fee just wasted.
+4. Noisy Wechat Groups. After joining in the team, I have entered almost ten small groups! Either for bug hunting program or tech chatting. The people there are noisy, flighty and impetuous. Either chatting about women or complaining about jobs. In my eye, they are just a bunch of idiots.
 
-As long as I discovered that I had been fooled, I just quit. At this point, I lose any confidence of any courses or things like that in China. As I say, they just want to make money, showing off their new buying Ferrari and don\'t care what you feel.
+As long as I discovered that I had been fooled, I just quited. At this point, I have lost trust and patience of any courses in China. They just use the money you work hard to earn, showing off their new buying Ferrari in their *Moment* in Wechat.
 
 The most funny thing is the slogan of this team: **It\'s always day1**.
 
@@ -92,7 +92,7 @@ It could be changed to: **It\'s always money**.
 
 ---
 
-Phone is Phone
+## Phone is Phone
 
 Recently I have read an [article](https://www.jianshu.com/p/b3d54e14a49b), and have the same feeling with its author. PS If you are English reader, you could use google translate, or it\'s ok if don\'t know what it means.
 
@@ -131,6 +131,123 @@ It could be a game box, could be a music player, could be a social center, but I
 "Phone is phone."
 
 ---
+
+## Arch Linux Installation Record
+
+Just in case I have to reinstall my Arch on other pc, I write the steps down below.
+
+First of all, check the disk resource using `fdisk -l`.
+
+My fdisk habit is below:
+
+| Partition | Size            | Format     |
+|-----------|-----------------|------------|
+| [SWAP]    | 4GB             | mkswap     |
+| /         | 50% of the disk | ext4       |
+| /home     | 25% of the disk | btrfs/ext4 |
+| /boot     | 1GB             | fat32      |
+
+After partition, mount them, following these steps: `/root` -> `swap` -> `/boot` -> `/home`.
+
+Then select the mirror, for me, the *ustc* one is the best:
+```
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+```
+
+Now may pacstrap:
+```
+pacstrap -K /mnt base linux linux-firmware
+
+genfstab -U /mnt >> /mnt/etc/fstab
+```
+
+And use `arch-chroot` into the system.
+
+After entering the system, quickly download these package I often use:
+
+| Package                                         | Usage                                             |
+|-------------------------------------------------|---------------------------------------------------|
+| dictd                                           | local English dictionary                          |
+| papirus/materia                                 | budgie theme                                      |
+| network-manager-applet                          | network applet under budgie                       |
+| git                                             | version control                                   |
+| vim                                             | the editor I love most                            |
+| firefox                                         | browser                                           |
+| budgie                                          | my favour de                                      |
+| networkmanager                                  | use to setup network                              |
+| lightdm                                         | display manager                                   |
+| lightdm-gtk-greeter                             | just a greeter                                    |
+| bluetooth                                       | set up bluetooth service                          |
+| wqy-zenhei                                      | Chinese character                                 |
+| amd-ucode/intel-ucode                           | must be installed                                 |
+| keyd                                            | keyd remap for my amd laptop                      |
+| texinfo                                         | although I seldom use it, just install            |
+| man                                             | help me a lot                                     |
+| sudo                                            | often forget to download                          |
+| vi                                              | for visudo to use                                 |
+| kitty                                           | best terminal                                     |
+| calc                                            | just too lazy to open the web calculator          |
+| tarsnap                                         | best sync service ever(in the world)              |
+| inetutils                                       | emmm, I forget why I have to install this one     |
+| flameshot                                       | a screenshot app that I use for four years        |
+| fcitx5, fcitx5-configtool, fcitx5-chinese-addon | to type Chinese character                         |
+| pandoc                                          | markdown2html, my blow flow                       |
+| base-devel                                      | if want to makepkg, you have to download it       |
+| feh                                             | a minimal photo checker                           |
+| lftp                                            | to upload my blog to server                       |
+| fuse                                            | when you want to run make -si, you have to use it |
+| chromium                                        | just in case I have to use it in the future       |
+| clash                                           | the tool I must use!                              |
+| noto-fonts-emoji                                | without it, I will find some fonts lost in app    |
+| evince                                          | pdf reader                                        |
+| grub, efibootmgr                                | set and check the boot point in disk              |
+| gedit                                           | when I want to write some Chinese article         |
+(and more...)
+
+For a happy and comfortable installing process, I write a script:
+```
+curl 
+Then, set the system time using command below:
+```
+ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+
+hwclock --systohc
+```
+
+Set locale:
+```
+vim /etc/locale.gen // uncomment the en\_US
+
+locale-gen
+```
+
+Set hostname:
+```
+echo *hostname* >> /etc/hostname
+```
+
+Add user:
+```
+useradd -m -G wheel *username*
+
+visudo // uncomment the wheel group
+```
+
+Set user/root password:
+```
+passwd // root one
+
+passwd *username* // user one
+```
+
+Set the boot config:
+```
+grub-install --target=x86\_64-efi --efi-directory=/boot --bootloader-id=GRUB
+
+grub-mkconfig -o /boot/grub/grub.cfg
+```
+
+
 
 ## MONTHLY ARCHIVE
 

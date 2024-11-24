@@ -89,31 +89,31 @@ are the things I have done in that team.</p>
 cheater, the whole team is a bunch of script kiddens.</strong></p>
 <ol type="1">
 <li>Before joining the team, the leader will tell you, learn
-tech&amp;earn money, but he won't say, at least before you pay the bill,
-that the bughunting is time wasting and meaningless, the bounty of the
+tech&amp;earn money, but he won't say, at least before you pay the fee,
+that the bug hunting is time wasting and meaningless, the bounty of the
 SRC is miserable. A lot of teammates have already give up doing this
 stuff.</li>
 <li>The learning atmosphere is ****. The newbie is rude, asking question
 without thoughtfully. The leader just teach you carelessly, compared to
 the 9000 yuan, everything he had done just like a joke.</li>
 <li>No one dare to challenge the authority of leader. Almost all his
-points are right, his power is dominance, no one dare to speak anything
-about him, or your fee just wasted.</li>
+points and views are right, his power is dominance, no one dare to speak
+anything about him, or your fee just wasted.</li>
 <li>Noisy Wechat Groups. After joining in the team, I have entered
 almost ten small groups! Either for bug hunting program or tech
-chatting. The people there are noisy, flighty and impetuous. Neither
-chatting about women nor complaining about jobs. In my eye, they are
-just a bunch of idiots.</li>
+chatting. The people there are noisy, flighty and impetuous. Either
+chatting about women or complaining about jobs. In my eye, they are just
+a bunch of idiots.</li>
 </ol>
-<p>As long as I discovered that I had been fooled, I just quit. At this
-point, I lose any confidence of any courses or things like that in
-China. As I say, they just want to make money, showing off their new
-buying Ferrari and don't care what you feel.</p>
+<p>As long as I discovered that I had been fooled, I just quited. At
+this point, I have lost trust and patience of any courses in China. They
+just use the money you work hard to earn, showing off their new buying
+Ferrari in their <em>Moment</em> in Wechat.</p>
 <p>The most funny thing is the slogan of this team: <strong>It's always
 day1</strong>.</p>
 <p>It could be changed to: <strong>It's always money</strong>.</p>
 <hr />
-<p>Phone is Phone</p>
+<h2 id="phone-is-phone">Phone is Phone</h2>
 <p>Recently I have read an <a
 href="https://www.jianshu.com/p/b3d54e14a49b">article</a>, and have the
 same feeling with its author. PS If you are English reader, you could
@@ -163,5 +163,236 @@ email.</p>
 center, but I wanna say:</p>
 <p>“Phone is phone.”</p>
 <hr />
+<h2 id="arch-linux-installation-record">Arch Linux Installation
+Record</h2>
+<p>Just in case I have to reinstall my Arch on other pc, I write the
+steps down below.</p>
+<p>First of all, check the disk resource using
+<code>fdisk -l</code>.</p>
+<p>My fdisk habit is below:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Partition</th>
+<th>Size</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[SWAP]</td>
+<td>4GB</td>
+<td>mkswap</td>
+</tr>
+<tr class="even">
+<td>/</td>
+<td>50% of the disk</td>
+<td>ext4</td>
+</tr>
+<tr class="odd">
+<td>/home</td>
+<td>25% of the disk</td>
+<td>btrfs/ext4</td>
+</tr>
+<tr class="even">
+<td>/boot</td>
+<td>1GB</td>
+<td>fat32</td>
+</tr>
+</tbody>
+</table>
+<p>After partition, mount them, following these steps:
+<code>/root</code> -&gt; <code>swap</code> -&gt; <code>/boot</code>
+-&gt; <code>/home</code>.</p>
+<p>Then select the mirror, for me, the <em>ustc</em> one is the
+best:</p>
+<pre><code>Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch</code></pre>
+<p>Now may pacstrap:</p>
+<pre><code>pacstrap -K /mnt base linux linux-firmware
+
+genfstab -U /mnt &gt;&gt; /mnt/etc/fstab</code></pre>
+<p>And use <code>arch-chroot</code> into the system.</p>
+<p>After entering the system, quickly download these package I often
+use:</p>
+<table>
+<colgroup>
+<col style="width: 49%" />
+<col style="width: 51%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Package</th>
+<th>Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>dictd</td>
+<td>local English dictionary</td>
+</tr>
+<tr class="even">
+<td>papirus/materia</td>
+<td>budgie theme</td>
+</tr>
+<tr class="odd">
+<td>network-manager-applet</td>
+<td>network applet under budgie</td>
+</tr>
+<tr class="even">
+<td>git</td>
+<td>version control</td>
+</tr>
+<tr class="odd">
+<td>vim</td>
+<td>the editor I love most</td>
+</tr>
+<tr class="even">
+<td>firefox</td>
+<td>browser</td>
+</tr>
+<tr class="odd">
+<td>budgie</td>
+<td>my favour de</td>
+</tr>
+<tr class="even">
+<td>networkmanager</td>
+<td>use to setup network</td>
+</tr>
+<tr class="odd">
+<td>lightdm</td>
+<td>display manager</td>
+</tr>
+<tr class="even">
+<td>lightdm-gtk-greeter</td>
+<td>just a greeter</td>
+</tr>
+<tr class="odd">
+<td>bluetooth</td>
+<td>set up bluetooth service</td>
+</tr>
+<tr class="even">
+<td>wqy-zenhei</td>
+<td>Chinese character</td>
+</tr>
+<tr class="odd">
+<td>amd-ucode/intel-ucode</td>
+<td>must be installed</td>
+</tr>
+<tr class="even">
+<td>keyd</td>
+<td>keyd remap for my amd laptop</td>
+</tr>
+<tr class="odd">
+<td>texinfo</td>
+<td>although I seldom use it, just install</td>
+</tr>
+<tr class="even">
+<td>man</td>
+<td>help me a lot</td>
+</tr>
+<tr class="odd">
+<td>sudo</td>
+<td>often forget to download</td>
+</tr>
+<tr class="even">
+<td>vi</td>
+<td>for visudo to use</td>
+</tr>
+<tr class="odd">
+<td>kitty</td>
+<td>best terminal</td>
+</tr>
+<tr class="even">
+<td>calc</td>
+<td>just too lazy to open the web calculator</td>
+</tr>
+<tr class="odd">
+<td>tarsnap</td>
+<td>best sync service ever(in the world)</td>
+</tr>
+<tr class="even">
+<td>inetutils</td>
+<td>emmm, I forget why I have to install this one</td>
+</tr>
+<tr class="odd">
+<td>flameshot</td>
+<td>a screenshot app that I use for four years</td>
+</tr>
+<tr class="even">
+<td>fcitx5, fcitx5-configtool, fcitx5-chinese-addon</td>
+<td>to type Chinese character</td>
+</tr>
+<tr class="odd">
+<td>pandoc</td>
+<td>markdown2html, my blow flow</td>
+</tr>
+<tr class="even">
+<td>base-devel</td>
+<td>if want to makepkg, you have to download it</td>
+</tr>
+<tr class="odd">
+<td>feh</td>
+<td>a minimal photo checker</td>
+</tr>
+<tr class="even">
+<td>lftp</td>
+<td>to upload my blog to server</td>
+</tr>
+<tr class="odd">
+<td>fuse</td>
+<td>when you want to run make -si, you have to use it</td>
+</tr>
+<tr class="even">
+<td>chromium</td>
+<td>just in case I have to use it in the future</td>
+</tr>
+<tr class="odd">
+<td>clash</td>
+<td>the tool I must use!</td>
+</tr>
+<tr class="even">
+<td>noto-fonts-emoji</td>
+<td>without it, I will find some fonts lost in app</td>
+</tr>
+<tr class="odd">
+<td>evince</td>
+<td>pdf reader</td>
+</tr>
+<tr class="even">
+<td>grub, efibootmgr</td>
+<td>set and check the boot point in disk</td>
+</tr>
+<tr class="odd">
+<td>gedit</td>
+<td>when I want to write some Chinese article</td>
+</tr>
+</tbody>
+</table>
+<p>(and more…)</p>
+<p>For a happy and comfortable installing process, I write a script:</p>
+<pre><code>curl 
+Then, set the system time using command below:</code></pre>
+<p>ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime</p>
+<p>hwclock –systohc</p>
+<pre><code>
+Set locale:</code></pre>
+<p>vim /etc/locale.gen // uncomment the en_US</p>
+<p>locale-gen</p>
+<pre><code>
+Set hostname:</code></pre>
+<p>echo <em>hostname</em> &gt;&gt; /etc/hostname</p>
+<pre><code>
+Add user:</code></pre>
+<p>useradd -m -G wheel <em>username</em></p>
+<p>visudo // uncomment the wheel group</p>
+<pre><code>
+Set user/root password:</code></pre>
+<p>passwd // root one</p>
+<p>passwd <em>username</em> // user one</p>
+<pre><code>
+Set the boot config:</code></pre>
+<p>grub-install –target=x86_64-efi –efi-directory=/boot
+–bootloader-id=GRUB</p>
+<p>grub-mkconfig -o /boot/grub/grub.cfg ```</p>
 <h2 id="monthly-archive">MONTHLY ARCHIVE</h2>
 <p>nothing here~</p>
