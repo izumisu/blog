@@ -207,6 +207,8 @@ After entering the system, quickly download these package I often use:
 For a happy and comfortable installing process, I write a script:
 ```
 curl 
+```
+
 Then, set the system time using command below:
 ```
 ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
