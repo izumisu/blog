@@ -271,7 +271,8 @@ Bookmark is the same, people just think one/serveral sites is/are useful now and
 ### History > Bookmark
 I never use bookmark because I have history. If I want to search, I just enter the key word of one site, leave the work to *firefox history recommandation*. Actually most of the time I even don't use history, I know what I need or recently the site I often open.
 
-### 
+Maybe, I guess, one day, *bookmark* the function could be deleted?
+
 ---
 
 ## MONTHLY ARCHIVE
