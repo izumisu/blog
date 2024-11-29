@@ -1,4 +1,4 @@
-# loost, a blog from alansu
+# loost, a blog from izumisu
 
 ## RECENT POST
 
@@ -255,7 +255,7 @@ grub-mkconfig -o /boot/grub/grub.cfg
 
 Once, I had tried number of ways to make my bookmark bar become more usable, including deleting some useless marks, using a bookmark manager or just port them to my blog, in case one day I would use them.
 
-Today, I'm proudly annouce that: I STOP USING THE BOOKMARK.
+Today, I\'m proudly annouce that: I STOP USING THE BOOKMARK.
 
 Why? Because I think, it is useless.
 
@@ -269,7 +269,7 @@ sent by the BigTech.inc. They all have the same feature: they try them hard to m
 Bookmark is the same, people just think one/serveral sites is/are useful now and then, but after that they almost never check them later. Just like you register a site and click "allow us to send you promotion", thinking that it may send some useful messages, but in the end just spam. 
 
 ### History > Bookmark
-I never use bookmark because I have history. If I want to search, I just enter the key word of one site, leave the work to *firefox history recommandation*. Actually most of the time I even don't use history, I know what I need or recently the site I often open.
+I never use bookmark because I have history. If I want to search, I just enter the key word of one site, leave the work to *firefox history recommandation*. Actually most of the time I even don\'t use history, I know what I need or recently the site I often open.
 
 Maybe, I guess, one day, *bookmark* the function could be deleted?
 
