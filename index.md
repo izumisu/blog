@@ -278,6 +278,6 @@ Maybe, I guess, one day, *bookmark* the function could be deleted?
 
 ## MONTHLY ARCHIVE
 
-- [2024.11](/blog/202411.md)
+- [2024.11](/blog/202411.html)
 - 2024.12
 nothing here~
