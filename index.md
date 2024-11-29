@@ -249,8 +249,32 @@ grub-install --target=x86\_64-efi --efi-directory=/boot --bootloader-id=GRUB
 grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
+---
 
+## Stop using browser bookmark
+
+Once, I had tried number of ways to make my bookmark bar become more usable, including deleting some useless marks, using a bookmark manager or just port them to my blog, in case one day I would use them.
+
+Today, I'm proudly annouce that: I STOP USING THE BOOKMARK.
+
+Why? Because I think, it is useless.
+
+### Bookmark = Spam 
+
+Yes, bookmark is like spam, but this kind of spam is the people send it by themselves.
+
+What is spam? The most spams I have ever seem just some promotion, security reminder. Most of them are sent by government or ISP, another of them 
+sent by the BigTech.inc. They all have the same feature: they try them hard to make themselves be seem useful, but always they fail. In the end, they are saying a bunch of no-sense.
+
+Bookmark is the same, people just think one/serveral sites is/are useful now and then, but after that they almost never check them later. Just like you register a site and click "allow us to send you promotion", thinking that it may send some useful messages, but in the end just spam. 
+
+### History > Bookmark
+I never use bookmark because I have history. If I want to search, I just enter the key word of one site, leave the work to *firefox history recommandation*. Actually most of the time I even don't use history, I know what I need or recently the site I often open.
+
+### 
+---
 
 ## MONTHLY ARCHIVE
+
 
 nothing here~
