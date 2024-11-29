@@ -112,7 +112,7 @@ For me, these year the social apps I have used more than three above, they are:
 - Qingtenzhilian(a college meet&dating app, focusing on strictly selection)
 - Element
 - All kinds of IRC clients
-and more
+and more\...
 
 The reasons I use these app, either feeling lonely and want to chat with girls, or just wanna improve my English.
 
@@ -202,7 +202,7 @@ After entering the system, quickly download these package I often use:
 | evince                                          | pdf reader                                        |
 | grub, efibootmgr                                | set and check the boot point in disk              |
 | gedit                                           | when I want to write some Chinese article         |
-(and more...)
+(and more\...)
 
 For a happy and comfortable installing process, I write a script:
 ```
@@ -237,9 +237,9 @@ visudo // uncomment the wheel group
 
 Set user/root password:
 ```
-passwd // root one
+passwd // root
 
-passwd *username* // user one
+passwd *username* // user
 ```
 
 Set the boot config:
@@ -269,6 +269,7 @@ sent by the BigTech.inc. They all have the same feature: they try them hard to m
 Bookmark is the same, people just think one/serveral sites is/are useful now and then, but after that they almost never check them later. Just like you register a site and click "allow us to send you promotion", thinking that it may send some useful messages, but in the end just spam. 
 
 ### History > Bookmark
+
 I never use bookmark because I have history. If I want to search, I just enter the key word of one site, leave the work to *firefox history recommandation*. Actually most of the time I even don\'t use history, I know what I need or recently the site I often open.
 
 Maybe, I guess, one day, *bookmark* the function could be deleted?
@@ -277,5 +278,6 @@ Maybe, I guess, one day, *bookmark* the function could be deleted?
 
 ## MONTHLY ARCHIVE
 
-
+- [2024.11](/blog/202411.md)
+- 2024.12
 nothing here~
