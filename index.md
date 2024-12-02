@@ -2,8 +2,9 @@
 
 ## RECENT POST
 
-[//]: # "The word below could be commented if a new blog being posted"
-I \'m writing on it \...
+[//]: # "Copy this to nextline when no blog: I\'m writing on it \..."
+
+## Tarsnap: The last backup service I choose
 
 ## MONTHLY ARCHIVE
 
