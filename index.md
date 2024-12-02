@@ -2,7 +2,7 @@
 
 ## RECENT POST
 
-I'm writing on it \...
+[//]: # "I\'m writing on it \..."
 
 ## MONTHLY ARCHIVE
 
