@@ -2,7 +2,8 @@
 
 ## RECENT POST
 
-[//]: # "I\'m writing on it \..."
+[//]: # "The word below could be commented if a new blog being posted"
+I \'m writing on it \...
 
 ## MONTHLY ARCHIVE
 
