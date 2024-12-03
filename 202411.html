@@ -165,8 +165,7 @@ center, but I wanna say:</p>
 Record</h2>
 <p>Just in case I have to reinstall my Arch on other pc, I write the
 steps down below.</p>
-<p>First of all, check the disk resource using
-<code>fdisk -l</code>.</p>
+<h3 id="partition">Partition</h3>
 <p>My fdisk habit is below:</p>
 <table>
 <thead>
@@ -209,7 +208,8 @@ best:</p>
 <pre><code>pacstrap -K /mnt base linux linux-firmware
 
 genfstab -U /mnt &gt;&gt; /mnt/etc/fstab</code></pre>
-<p>And use <code>arch-chroot</code> into the system.</p>
+<h3 id="install-needy-package">Install needy package</h3>
+<p>Use <code>arch-chroot</code> into the system.</p>
 <p>After entering the system, quickly download these package I often
 use:</p>
 <table>
@@ -367,9 +367,8 @@ use:</p>
 </tbody>
 </table>
 <p>(and more...)</p>
-<p>For a happy and comfortable installing process, I write a script:</p>
-<pre><code>curl </code></pre>
-<p>Then, set the system time using command below:</p>
+<h3 id="basic-setting">Basic setting</h3>
+<p>Set the system time using command below:</p>
 <pre><code>ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 
 hwclock --systohc</code></pre>
@@ -391,6 +390,16 @@ passwd *username* // user</code></pre>
 <pre><code>grub-install --target=x86\_64-efi --efi-directory=/boot --bootloader-id=GRUB
 
 grub-mkconfig -o /boot/grub/grub.cfg</code></pre>
+<h3 id="install-clash-enable-some-system-service">Install clash &amp;
+Enable some system service</h3>
+<p>Use <em>pacman</em> to download the clash, move it from
+<code>/bin</code> to <code>/usr/local/bin</code>.</p>
+<p>Then follow the instruction <a
+href="https://blog.iswiftai.com/posts/clash-linux/">here</a>.</p>
+<p>And remember enable some services like: lightdm, clash,
+networkmanager.</p>
+<h3 id="reboot">Reboot</h3>
+<p>Unmount all and reboot.</p>
 <hr />
 <h2 id="stop-using-browser-bookmark">Stop using browser bookmark</h2>
 <p>Once, I had tried number of ways to make my bookmark bar become more
