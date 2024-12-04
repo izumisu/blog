@@ -31,6 +31,14 @@ me:
 
 ---
 
+## Some Useful Extensions(for me)
+
+These are four essencial: Dark Reader, Vimium, DuckDuckGo Privacy and I don't care about cookie.
+
+One for dark color, one for swift browsing, and last one for NOT TRACKING
+
+Others like Clipping, Save Video As are also useful, but I don't really use them much.
+
 ## MONTHLY ARCHIVE
 
 - [2025.01](./202501.html)
