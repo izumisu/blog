@@ -39,6 +39,33 @@ One for dark color, one for swift browsing, and last one for NOT TRACKING
 
 Others like Clipping, Save Video As are also useful, but I don't really use them much.
 
+---
+
+## Use a new learning method
+
+Yesterday I started to follow my new learning method: **Ask the question, and solve it**.
+
+When I have a question about one specific code/concept, I just take it down to paper, then find way to solve it. If I come across with another, I just repeat the action before.
+
+Below is a part of my scratch on paper:
+
+```
+           ----------- @Target    
+           |                      
+           |                      
+           |                      
+                                  
+@RestController ------ @interface 
+                                  
+           |                      
+           |                      
+           |                      
+           ----------- @Retention 
+                                  
+```
+
+Maybe, this is the problem-oriented way.
+
 ## MONTHLY ARCHIVE
 
 - [2025.01](./202501.html)
