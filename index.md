@@ -9,7 +9,7 @@
 Backup target: code/config file/photo(~1.9G)
 
 - [ ] $3.43/month, Baidunetdisk(Ads app)
-- [ ] $0.99/month, iCloud(I'm not iOS user)  
+- [ ] $0.99/month, iCloud(I\'m not iOS user)  
 - [ ] free, 15GB, Google One(speed to slow for China)
 - [ ] $4.12/month or $27.33/year, Nutstore(expensive, price/performance low)
 - [x] $3.00/month, Tarsnap(cli friendly, simplicity, \*nix friendly, cheap)
@@ -33,11 +33,11 @@ me:
 
 ## Some Useful Extensions(for me)
 
-These are four essencial: Dark Reader, Vimium, DuckDuckGo Privacy and I don't care about cookie.
+These are four essencial: Dark Reader, Vimium, DuckDuckGo Privacy and I don\'t care about cookie.
 
 One for dark color, one for swift browsing, and last one for NOT TRACKING
 
-Others like Clipping, Save Video As are also useful, but I don't really use them much.
+Others like Clipping, Save Video As are also useful, but I don\'t really use them much.
 
 ---
 
@@ -63,6 +63,8 @@ Below is a part of my scratch on paper:
            ----------- @Retention 
                                   
 ```
+(thanks for [asciip](https://asciip.dev/))
+
 
 Maybe, this is the problem-oriented way.
 
