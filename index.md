@@ -1,5 +1,7 @@
 # loost = loong list
 
+---
+
 ## RECENT POST
 
 [//]: # "Copy this to nextline when no blog: I\'m writing on it \..."
@@ -16,18 +18,6 @@ Backup target: code/config file/photo(~1.9G)
 
 ---
 
-## Simple Intro Myself
-
-I know no one would read this blog, just in case.
-
-```
-me:
-    nickname: izumisu
-    region: China
-    favor: parkour
-    interest: kernel&os
-    personality: outgoing
-```
 
 ---
 
@@ -67,6 +57,19 @@ Below is a part of my scratch on paper:
 
 
 Maybe, this is the problem-oriented way.
+
+## Rush reading of Daemonic Dispatches
+
+Today I spend half day rushing over the blog of **Colin Percival**, these are some blogs I find to be interesting:
+
+- Blog tech details
+- Garbage collection is evil
+- Security Mindset is trained by mathenmatics
+- Tarsnap: No heartbleed here
+
+To be honest, a lot of his blogs are about BSD, and I just skipping them, because of boring(maybe one day I will find them interesting).
+
+---
 
 ## MONTHLY ARCHIVE
 
