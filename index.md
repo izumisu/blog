@@ -18,9 +18,6 @@ Backup target: code/config file/photo(~1.9G)
 
 ---
 
-
----
-
 ## Some Useful Extensions(for me)
 
 These are four essencial: Dark Reader, Vimium, DuckDuckGo Privacy and I don\'t care about cookie.
