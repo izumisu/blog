@@ -1,4 +1,4 @@
-# loost = loong list
+# loost, a lost place for blogs
 
 ---
 
@@ -12,11 +12,10 @@ Backup target: code/config file/photo(~1.9G)
 
 - [ ] $3.43/month, Baidunetdisk(Ads app)
 - [ ] $0.99/month, iCloud(I\'m not iOS user)  
-- [ ] free, 15GB, Google One(speed to slow for China)
+- [ ] free, 15GB, Google One(speed to slow in China)
 - [ ] $4.12/month or $27.33/year, Nutstore(expensive, price/performance low)
 - [x] $3.00/month, Tarsnap(cli friendly, simplicity, \*nix friendly, cheap)
 
----
 
 ## Some Useful Extensions(for me)
 
@@ -26,7 +25,6 @@ One for dark color, one for swift browsing, and last one for NOT TRACKING
 
 Others like Clipping, Save Video As are also useful, but I don\'t really use them much.
 
----
 
 ## Use a new learning method
 
@@ -55,6 +53,7 @@ Below is a part of my scratch on paper:
 
 Maybe, this is the problem-oriented way.
 
+
 ## Rush reading of Daemonic Dispatches
 
 Today I spend half day rushing over the blog of **Colin Percival**, these are some blogs I find to be interesting:
@@ -66,9 +65,17 @@ Today I spend half day rushing over the blog of **Colin Percival**, these are so
 
 To be honest, a lot of his blogs are about BSD, and I just skipping them, because of boring(maybe one day I will find them interesting).
 
----
+
+## CS self learning
+
+It's weired to say that, I started to self-learn after I finished my college. Here are my self-learn record:
+
+### [MIT 6.092](./mit6092.html)
+
 
 ## MONTHLY ARCHIVE
+
+---
 
 - [2025.01](./202501.html)
 - [2024.12](./202412.html)

@@ -33,7 +33,6 @@ virtual host.</li>
 <p>I write the blog on <em>vim</em>, and use <em>pandoc</em> to finish
 markdown2html, then upload to server, of course I also push it to my git
 repo. The last three things are done by <em>bash</em> script.</p>
-<hr />
 <h2 id="phone-is-phone">Phone is Phone</h2>
 <p>Recently I have read an <a
 href="https://www.jianshu.com/p/b3d54e14a49b">article</a>.</p>
@@ -53,7 +52,6 @@ email.</p>
 <p>It could be a game box, could be a music player, could be a social
 center, but I wanna say:</p>
 <p>"Phone is phone."</p>
-<hr />
 <h2 id="arch-linux-installation-record">Arch Linux Installation
 Record</h2>
 <p>Just in case I have to reinstall my Arch on other pc, I write the
@@ -91,20 +89,7 @@ steps down below.</p>
 </tr>
 </tbody>
 </table>
-<p>After partition, mount them, following these steps:
-<code>/root</code> -&gt; <code>swap</code> -&gt; <code>/boot</code>
--&gt; <code>/home</code>.</p>
-<p>Then select the mirror, for me, the <em>ustc</em> one is the
-best:</p>
-<pre><code>Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch</code></pre>
-<p>Now may pacstrap:</p>
-<pre><code>pacstrap -K /mnt base linux linux-firmware
-
-genfstab -U /mnt &gt;&gt; /mnt/etc/fstab</code></pre>
-<h3 id="install-needy-package">Install needy package</h3>
-<p>Use <code>arch-chroot</code> into the system.</p>
-<p>After entering the system, quickly download these package I often
-use:</p>
+<p>This packages I need are:</p>
 <table>
 <colgroup>
 <col style="width: 49%" />
@@ -260,17 +245,7 @@ use:</p>
 </tbody>
 </table>
 <p>(and more...)</p>
-<h3 id="basic-setting">Basic setting</h3>
-<p>Set the system time using command below:</p>
-<pre><code>ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-
-hwclock --systohc</code></pre>
-<p>Set locale:</p>
-<pre><code>vim /etc/locale.gen // uncomment the en\_US
-
-locale-gen</code></pre>
-<p>Set hostname:</p>
-<pre><code>echo *hostname* &gt;&gt; /etc/hostname</code></pre>
+<h3 id="key-setting">Key setting</h3>
 <p>Add user:</p>
 <pre><code>useradd -m -G wheel *username*
 
@@ -294,17 +269,9 @@ href="https://blog.iswiftai.com/posts/clash-linux/">here</a>.</p>
 networkmanager.</p>
 <h3 id="reboot">Reboot</h3>
 <p>Unmount all and reboot.</p>
-<h3 id="get-into-the-desktop">Get into the Desktop</h3>
-<p>Do something to make desktop simplier:</p>
-<ol type="1">
-<li>Right click and open budgie-desktop-config</li>
-<li>Change the <code>Bottom</code> panel to <code>Top</code></li>
-<li>Change <code>Size</code> to 28</li>
-<li>Change <code>Spacing</code> to 4</li>
-<li>Change <code>Transparency</code> to Always</li>
-<li>Turn off the <code>Shadow</code></li>
-</ol>
-<hr />
+<h3 id="after-that...">After that...</h3>
+<p>It turns out that some extra steps I should take on my pc
+installation, and I write them down here.</p>
 <h2 id="stop-using-browser-bookmark">Stop using browser bookmark</h2>
 <p>Once, I had tried number of ways to make my bookmark bar become more
 usable, including deleting some useless marks, using a bookmark manager
