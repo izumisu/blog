@@ -1,8 +1,9 @@
 # loost, a lost place for blogs
 
----
 
 ## RECENT POST
+
+---
 
 [//]: # "Copy this to nextline when no blog: I\'m writing on it \..."
 
@@ -80,3 +81,9 @@ It's weired to say that, I started to self-learn after I finished my college. He
 - [2025.01](./202501.html)
 - [2024.12](./202412.html)
 - [2024.11](./202411.html)
+
+## Yearly ARCHIVE
+
+---
+
+- [2024]
