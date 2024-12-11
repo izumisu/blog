@@ -66,12 +66,11 @@ Today I spend half day rushing over the blog of **Colin Percival**, these are so
 
 To be honest, a lot of his blogs are about BSD, and I just skipping them, because of boring(maybe one day I will find them interesting).
 
+## Move to Warp!
 
-## CS self learning
+Just embrace the new tech and use warp!
 
-It's weired to say that, I started to self-learn after I finished my college. Here are my self-learn record:
-
-### [MIT 6.092](./mit6092.html)
+Goodbye kitty~
 
 
 ## MONTHLY ARCHIVE
