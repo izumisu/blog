@@ -72,6 +72,8 @@ Just embrace the new tech and use warp!
 
 Goodbye kitty~
 
+Err, I just love the ui of warp~
+
 
 ## MONTHLY ARCHIVE
 
